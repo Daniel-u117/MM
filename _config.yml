@@ -75,7 +75,7 @@ author:
       icon: "fa fa-fw fa-envelope"
       url: "mailto:daniel.chenchuyang@gmail.com"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/daniel-chen-u117/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
