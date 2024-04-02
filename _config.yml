@@ -16,9 +16,7 @@
 title: Portfolio - Daniel Chen
 email: daniel.chenchuyang@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A Physics major graduate with a Mechanical Engineering and Robotics concentration. 
-  Offer expertise in material characterization through nanoindentation, robotics research, 
-  automated system development, test automation, and mechanical design.
+  Daniel Chen personal website
 # twitter_username: username
 github_username: Daniel-u117
 minimal_mistakes_skin: default
@@ -60,7 +58,7 @@ plugins:
 author:
   name   : "Daniel Chen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A Physics major graduate with a Mechanical Engineering and Robotics concentration. 
+  bio    : "A Physics major graduate at UCSB, with a Mechanical Engineering and Robotics concentration. 
   Offer expertise in material characterization through nanoindentation, robotics research, 
   automated system development, test automation, and mechanical design."
   links:
@@ -70,9 +68,15 @@ author:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Daniel-u117"
+    - label: "Sunnyvale, CA"
+      icon: "fas fa-fw fa-map-marker-alt"
+      url: ""
+    - label: "Email"
+      icon: "fa fa-fw fa-envelope"
+      url: "mailto:daniel.chenchuyang@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/daniel-chen-u117/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/danielunu117/"
